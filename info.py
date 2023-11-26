@@ -51,8 +51,8 @@ SUPPORT_CHAT_ID = -1001792675255
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://rename: rename@cluster0.01osgev.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Rename Bot")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://hari:hari@cluster0.17lzqwj.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "Hari")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'FILES')
 
 # Others
